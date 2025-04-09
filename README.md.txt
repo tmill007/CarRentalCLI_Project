@@ -3,11 +3,13 @@
 A simple command-line Java app for booking cars and managing driver availability.
 
 ## Features
-- Menu-driven interface
+- Text Menu-driven interface
+- 3 options for Data storage (fetching users) implemented through a DAO interface
+    Array-based, CSV & Java Faker Library(to generate random users)
 - View available cars
 - View available users
 - Book cars
-- Track bookings
+- Get bookings (by user or all bookings)
 
 ## Technologies
 Java, OOP, Arrays, Console I/O
