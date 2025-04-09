@@ -12,7 +12,7 @@ A simple command-line Java app for booking cars and managing driver availability
 - Get bookings (by user or all bookings)
 
 ## Technologies
-Java, OOP, Arrays, Console I/O
+Java, OOP, Arrays, Console I/O, Maven Dependencies
 
 ## How to Run
 Open in IntelliJ IDEA and run `Main.java` from the `src/` directory.
